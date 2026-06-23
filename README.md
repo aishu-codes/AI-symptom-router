@@ -1,4 +1,7 @@
 ﻿# AI Medical Symptom Router
+<img width="1912" height="926" alt="Screenshot 2026-06-23 202919" src="https://github.com/user-attachments/assets/b4987b14-cf19-436d-ba86-227b579dd956" />
+<img width="1893" height="917" alt="Screenshot 2026-06-23 202940" src="https://github.com/user-attachments/assets/206a137a-0706-45c1-bbdc-cf5bc3d6eb71" />
+
 
 A clean, responsive web dashboard that helps patients find the right medical specialist based on the health symptoms they type. 
 
